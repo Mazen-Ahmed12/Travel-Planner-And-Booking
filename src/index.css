@@ -97,7 +97,7 @@ button:focus-visible {
 
 @media (prefers-color-scheme: dark) {
   input[type="date"]::-webkit-calendar-picker-indicator {
-    filter: invert(1);
+    filter: brightness(0);
   }
 }
 

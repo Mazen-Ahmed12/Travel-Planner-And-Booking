@@ -1,5 +1,5 @@
 import React from "react";
-import { Input } from "../../../components/ui/input";
+import { Input } from "../../../../../components/ui/input";
 
 type FeatureCardProps = {
   icon: React.ElementType; // 👈 the icon component (e.g. MapPin, Users, etc.)
@@ -22,7 +22,7 @@ export function SearchBar({
         <Input
           type={type}
           placeholder={placeholder}
-          className="border-0 p-0 h-auto focus-visible:ring-0"
+          className="border-0 p-0 h-auto focus-visible:ring-0 bg-gray-700/10"
         />
       </div>
     </div>
