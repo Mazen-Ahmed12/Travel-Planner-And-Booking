@@ -1,7 +1,7 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
 
-const InfoLayout: React.FC = () => {
+export function InfoLayout() {
   return (
     <>
 
@@ -12,5 +12,3 @@ const InfoLayout: React.FC = () => {
     </>
   );
 };
-
-export default InfoLayout;

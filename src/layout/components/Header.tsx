@@ -50,9 +50,9 @@ export function Header() {
               Search
             </Button>
             <Button
-              onClick={() => handleNavigate("destinations")}
+              onClick={() => handleNavigate("destination")}
               className={`${
-                currentPage === "destinations"
+                currentPage === "destination"
                   ? "text-blue-600"
                   : "text-gray-600 hover:text-gray-900"
               } transition-colors`}
@@ -70,9 +70,9 @@ export function Header() {
               Deals
             </Button>
             <Button
-              onClick={() => handleNavigate("support")}
+              onClick={() => handleNavigate("supportpage")}
               className={`${
-                currentPage === "support"
+                currentPage === "supportpage"
                   ? "text-blue-600"
                   : "text-gray-600 hover:text-gray-900"
               } transition-colors`}
@@ -93,7 +93,7 @@ export function Header() {
             >
               <User className="w-5 h-5" />
             </Button>
-            <Button className="hidden md:flex bg-blue-600 hover:bg-blue-700 px-4 py-2">
+            <Button className="hidden md:flex bg-blue-600 hover:bg-blue-700">
               Sign In
             </Button>
             <Button size="icon" className="md:hidden">

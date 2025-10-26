@@ -3,7 +3,7 @@ import { Outlet } from "react-router-dom";
 import {Header} from "./components/Header";
 import {Footer} from "./components/Footer";
 
-const MainLayout: React.FC = () => {
+export function MainLayout() {
   return (
     <>
       <Header />
@@ -17,4 +17,3 @@ const MainLayout: React.FC = () => {
   );
 };
 
-export default MainLayout;

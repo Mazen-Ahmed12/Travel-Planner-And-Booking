@@ -1,7 +1,7 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
 
-const AuthLayout: React.FC = () => {
+export function AuthLayout() {
   return (
     <>
 
@@ -12,5 +12,3 @@ const AuthLayout: React.FC = () => {
     </>
   );
 };
-
-export default AuthLayout;

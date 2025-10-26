@@ -1,9 +1,7 @@
 import React from 'react'
 
-const Destination = () => {
+export function Destination() {
   return (
     <div>Destination</div>
   )
 }
-
-export default Destination

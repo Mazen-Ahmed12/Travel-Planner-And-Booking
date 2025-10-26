@@ -1,9 +1,9 @@
 import React from 'react'
 
-const TermsOfServices = () => {
+export function TermsOfServices() {
   return (
     <div>TermsOfServices</div>
   )
 }
 
-export default TermsOfServices
+

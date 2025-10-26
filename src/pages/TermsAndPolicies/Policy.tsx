@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Policy = () => {
+export function Policy() {
   return (
     <div>Policy</div>
   )
 }
 
-export default Policy
+
