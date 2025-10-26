@@ -1,0 +1,70 @@
+  {
+      "results" : [
+      {
+        "id": 1,
+        "title": "Luxury Resort in Bali",
+        "location": "Ubud, Bali",
+        "image": "https://images.unsplash.com/photo-1704253411612-e4deb715dcd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYWxpJTIwdGVtcGxlfGVufDF8fHx8MTc2MTIwNzkwM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "price": 899,
+        "rating": 4.8,
+        "reviews": 234,
+        "amenities": ["Pool", "Spa", "WiFi", "Breakfast"],
+        "type": "Resort"
+      },
+      {
+        "id": 2,
+        "title": "Boutique Hotel Paris",
+        "location": "Champs-Élysées, Paris",
+        "image": "https://images.unsplash.com/photo-1431274172761-fca41d930114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYXJpcyUyMGVpZmZlbCUyMHRvd2VyfGVufDF8fHx8MTc2MTI5NjI0Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "price": 1299,
+        "rating": 4.9,
+        "reviews": 456,
+        "amenities": ["WiFi", "Restaurant", "Bar", "Concierge"],
+        "type": "Hotel"
+      },
+      {
+        "id": 3,
+        "title": "Tokyo City Hotel",
+        "location": "Shibuya, Tokyo",
+        "image": "https://images.unsplash.com/photo-1645343709881-465be60137a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b2t5byUyMGNpdHklMjBuaWdodHxlbnwxfHx8fDE3NjEyNzMwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "price": 1099,
+        "rating": 4.7,
+        "reviews": 189,
+        "amenities": ["WiFi", "Gym", "Breakfast", "Airport Shuttle"],
+        "type": "Hotel"
+      },
+      {
+        "id": 4,
+        "title": "Santorini Beach Resort",
+        "location": "Oia, Santorini",
+        "image": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzYW50b3JpbmklMjBncmVlY2V8ZW58MXx8fHwxNzYxMzAwMTY1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "price": 1499,
+        "rating": 4.9,
+        "reviews": 312,
+        "amenities": ["Ocean View", "Pool", "Spa", "Restaurant"],
+        "type": "Resort"
+      },
+      {
+        "id": 5,
+        "title": "Maldives Overwater Villa",
+        "location": "Malé, Maldives",
+        "image": "https://images.unsplash.com/photo-1682308999971-208126ba75ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYWxkaXZlcyUyMHJlc29ydHxlbnwxfHx8fDE3NjEzMDAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "price": 2199,
+        "rating": 5.0,
+        "reviews": 267,
+        "amenities": ["Private Pool", "Spa", "All Inclusive", "Water Sports"],
+        "type": "Villa"
+      },
+      {
+        "id": 6,
+        "title": "Tropical Beach Paradise",
+        "location": "Caribbean Islands",
+        "image": "https://images.unsplash.com/photo-1702743599501-a821d0b38b66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMGJlYWNoJTIwcGFyYWRpc2V8ZW58MXx8fHwxNzYxMjM0NTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "price": 799,
+        "rating": 4.6,
+        "reviews": 178,
+        "amenities": ["Beach Access", "Pool", "WiFi", "Breakfast"],
+        "type": "Resort"
+      }
+    ]}
+    
